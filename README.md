@@ -1,2 +1,3 @@
-# try_ruby_socket
-Learning purpose repo
+## Learning purpose repo
+
+Small ruby socket app for chess.
